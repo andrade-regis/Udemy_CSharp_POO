@@ -1,0 +1,11 @@
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\bin\Debug\First.exe.config
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\bin\Debug\First.exe
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\bin\Debug\First.pdb
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\obj\Debug\First.csproj.AssemblyReference.cache
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\obj\Debug\First.csproj.SuggestedBindingRedirects.cache
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\obj\Debug\First.Principal.resources
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\obj\Debug\First.csproj.GenerateResource.cache
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\obj\Debug\First.exe
+C:\Users\Regis\Documents\Git\Udemy_CSharpPOO_Aplicado\Primeiro Projeto\Initial\First\obj\Debug\First.pdb
